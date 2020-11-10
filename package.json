@@ -1,5 +1,5 @@
 {
-  "name": "st4rzbot",
+  "name": "G-SOA BOT",
   "version": "1.0.0",
   "description": "bot whatsapp lewat hp doang",
   "main": "index.js",
@@ -34,7 +34,7 @@
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "G-SOA",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Soakmamank/GSOA/issues"
