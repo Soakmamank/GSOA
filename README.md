@@ -1,5 +1,5 @@
-# rbot
-BOT WHATSAPP VIA TERMUX BY REUZ
+# G-SOA BOT
+BOT WHATSAPP VIA TERMUX BY GILANG
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -49,4 +49,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-Gopay : 081271699856
+Gopay : 0895395059197 
