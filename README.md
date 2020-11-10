@@ -17,7 +17,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/benisadewa/rbot.git
+> git clone https://github.com/Soakmamank/GSOA
 > cd rbot
 > bash install.sh
 > node index.js
